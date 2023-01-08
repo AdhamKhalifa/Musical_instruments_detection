@@ -1,5 +1,5 @@
 # Musical_instruments_detection
-In this project, I'm using YOLOv7 and PyTorch to train a model to detect a list of musical instruments in a video in order to understand the music performance scene. The instruments are: acoustic guitar, xylophone, bassoon, trumpet, and tuba. A dataset of 3,000 images was used for training and 10% of it was for validation and another 10% for testing. The model achieved an accuracy of 92%.
+In this project, I'm using YOLOv5 and PyTorch to train a model to detect a list of musical instruments in a video in order to understand the music performance scene. The instruments are: acoustic guitar, xylophone, bassoon, trumpet, and tuba. A dataset of 3,000 images was used for training and 10% of it was for validation and another 10% for testing. The model achieved an accuracy of 92%.
 
 Here are the graphs explaining the model and training:
 
